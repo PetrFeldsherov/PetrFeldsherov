@@ -1,6 +1,6 @@
 # Petr Feldsherov
 *seeking a position of* **Java developer**
-##### Minsk, Belarus | +375(29) 254-58-89 | piotrfeldsherov@gmail.com
+#### Minsk, Belarus | +375(29) 254-58-89 | piotrfeldsherov@gmail.com
 
 ## Skills
 
@@ -22,12 +22,12 @@
 
 ## Education
 
-##### Applied math and computer science, BSU, FAMCS
+#### Applied math and computer science, BSU, FAMCS
 
 ## Languages
 
-##### English B2+, Russian native.
+#### English B2+, Russian native.
 
 ## Activities and Interests
 
-##### Sports, classical music, History, Philosophy, Sociology, Latin.
+#### Sports, classical music, History, Philosophy, Sociology, Latin, Military classics, Political Philosohy, Intellectual History.
