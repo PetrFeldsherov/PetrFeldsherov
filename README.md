@@ -12,17 +12,17 @@
 ## Soft skills
  - Strong written and verbal communication skills, with the ability to communicate across all levels of management and interpersonal styles.
  - Demonstrated ability to build partnering relationships across the company at all levels (persuasive, good listener and assimilator of ideas and perspectives).
- - Excellent analytical skills, with the ability to identify problems and develop solutions.
  - Highly organized with attention to detail, an ability to lead/manage and prioritize multiple initiatives at the same time and good time management skills.
  - Strong presentation skills with experience delivering presentations and tailoring information to suit the appropriate audience.
  - Adaptable and able to work effectively in a changing environment.
  - Strong motivation with appetite for continuous improvement of SW development processes, engaging, influencing, and leading by example.
  - Results driven aproach to work.
+ - Excellent analytical skills, with the ability to identify problems and develop solutions.
 
 
 ## Education
 
-#### Applied math and computer science, BSU, FAMCS
+#### Applied Math and Computer Science, BSU, FAMCS
 
 ## Languages
 
@@ -30,4 +30,4 @@
 
 ## Activities and Interests
 
-#### Sports, classical music, History, Philosophy, Sociology, Latin, Military classics, Political Philosohy, Intellectual History.
+#### Sports, classical music, History, Philosophy, Sociology, Latin, military classics, Political Philosohy, Intellectual History.
