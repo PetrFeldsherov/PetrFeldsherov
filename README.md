@@ -1,6 +1,6 @@
 # Petr Feldsherov
-
-##### Minsk, Belarus | +375(29) 254-58-89 | piotrfeldsherov@gmail.com | https://github.com/PetrFeldsherov
+### Java developer
+##### Minsk, Belarus | +375(29) 254-58-89 | piotrfeldsherov@gmail.com
 
 ## Skills
 
@@ -9,13 +9,24 @@
 - Git novice; Agile, SCRUM, Kanban, ScrumBan, TDD novice;
 - OS Windows, Android, iOS, Linux, Virtual-Box novice; MS Office intermediate;
 
+## Soft skills
+ - Strong written and verbal communication skills, with the ability to communicate across all levels of management and interpersonal styles.
+ - Demonstrated ability to build partnering relationships across the company at all levels (persuasive, good listener and assimilator of ideas and perspectives).
+ - Excellent analytical skills, with the ability to identify problems and develop solutions.
+ - Highly organized with attention to detail, an ability to lead/manage and prioritize multiple initiatives at the same time and good time management skills.
+ - Strong presentation skills with experience delivering presentations and tailoring information to suit the appropriate audience.
+ - Adaptable and able to work effectively in a changing environment.
+ - Strong motivation with appetite for continuous improvement of SW development processes, engaging, influencing, and leading by example.
+ - Results driven aproach to work.
+
+
 ## Education
 
-##### Applied math and computer science, BSU, FAMCS, 2022 - present
+##### Applied math and computer science, BSU, FAMCS
 
 ## Languages
 
-##### English B2, Russian native.
+##### English B2+, Russian native.
 
 ## Activities and Interests
 
