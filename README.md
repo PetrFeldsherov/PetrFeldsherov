@@ -1,5 +1,5 @@
 # Petr Feldsherov
-### Java developer
+*seeking a position of* **Java developer**
 ##### Minsk, Belarus | +375(29) 254-58-89 | piotrfeldsherov@gmail.com
 
 ## Skills
