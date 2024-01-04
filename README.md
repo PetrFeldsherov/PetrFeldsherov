@@ -20,7 +20,7 @@
 
 ## Education
 
-#### Applied Math and Computer Science, BSU, FAMCS
+#### Applied Mathematics and Computer Science, BSU, FAMCS
 
 ## Languages
 
