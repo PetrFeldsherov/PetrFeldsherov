@@ -15,7 +15,7 @@
  - Highly organized with attention to detail, an ability to lead/manage and prioritize multiple initiatives at the same time and good time management skills.
  - Strong presentation skills with experience delivering presentations and tailoring information to suit the appropriate audience.
  - Adaptable and able to work effectively in a changing environment.
- - Strong motivation with appetite for continuous improvement of SW development processes, engaging, influencing, and leading by example.
+ - Strong motivation with appetite for continuous improvement of SW development processes.
 
 
 ## Education
