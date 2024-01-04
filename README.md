@@ -16,8 +16,6 @@
  - Strong presentation skills with experience delivering presentations and tailoring information to suit the appropriate audience.
  - Adaptable and able to work effectively in a changing environment.
  - Strong motivation with appetite for continuous improvement of SW development processes, engaging, influencing, and leading by example.
- - Results driven aproach to work.
- - Excellent analytical skills, with the ability to identify problems and develop solutions.
 
 
 ## Education
