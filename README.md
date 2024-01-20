@@ -4,8 +4,8 @@
 
 ## Skills
 
-- C++98, C++11 novice; QT Framework 6.4 novice; CMake novice; Visual Studio Unit Testing Framework novice;
 - Java intermediate; java.util.Logging, XML, JSON, SQL, Junit, Maven, Tomcat, JavaFX novice;
+- C++98, C++11 novice; QT Framework 6.4 novice; CMake novice; Visual Studio Unit Testing Framework novice;
 - Git novice; Agile, SCRUM, Kanban, ScrumBan, TDD novice;
 - OS Windows, Android, iOS, Linux, Virtual-Box novice; MS Office intermediate;
 
